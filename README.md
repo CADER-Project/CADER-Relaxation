@@ -17,9 +17,6 @@ This project depends on several libraries from the [Boost project](https://www.b
 `sudo apt-get update;`
 `sudo apt-get install libboost-all-dev;`
 
-
-It also uses the [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) library, which is included here under the terms of the author's "Simplified BSD license".
-
 ---
 
 ## Getting Started with the server
